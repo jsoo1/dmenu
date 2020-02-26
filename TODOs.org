@@ -1,0 +1,6 @@
+* Patches
+** Fuzzy match
+** Highlight
+** Incremental
+** Nonblocking-io
+** Line height
